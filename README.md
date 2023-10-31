@@ -1,5 +1,8 @@
-# 💫 About Me:
-With over 8 years of experience in Android mobile development, I have a proven track record of delivering complex, high-impact apps.<br>My outstanding track record includes my pivotal role in the development of the abc app which is one of the world’s largest social networking platforms. It stands as a testament to my expertise and problem-solving abilities.
+<h1 align="center">Hi 👋, I'm Sumit</h1>
+<h3 align="center">A passionate mobile app developer</h3>
+
+# About Me:
+With over 8 years of experience in Android mobile development, I have a proven track record of delivering complex, high-impact apps.<br>My outstanding track record includes my pivotal role in the development of the <b>LinkedIn</b> app which is one of the world’s largest social networking platforms. It stands as a testament to my expertise and problem-solving abilities.
 
 
 # 💻 Tech Stack:
