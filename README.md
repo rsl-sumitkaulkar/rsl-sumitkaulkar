@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Sumit</h2>
+<h1 align="center" style="border-bottom: none">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate mobile app developer</h3>
 
 # About Me:
