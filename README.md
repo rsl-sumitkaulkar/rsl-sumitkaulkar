@@ -18,7 +18,7 @@ I excels in efficient development with a focus on key principles:<br/>
 
 
 ### Technical Skills and Abilities:
-➤ Programming Languages: Proficient in Java, Kotlin and Dart.<br/>
+➤ Programming Languages: Proficient in Java, Kotlin, Dart and Javascript.<br/>
 ➤ Databases: SQLite, MySQL, Firebase Firestore and Realtime Database.<br/>
 ➤ Dependency Injection: Dagger and Hilt.<br/>
 ➤ Architectures: MVP, MVVM, and more.<br/>
