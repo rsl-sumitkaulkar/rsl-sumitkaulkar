@@ -15,6 +15,7 @@ I excels in efficient development with a focus on key principles:<br/>
 ✅ Adherence to coding standards for long-term maintainability.<br/>
 ✅ Proactive problem-solving, identifying and proposing solutions to product bottlenecks.<br/>
 ✅ Thorough feature testing via a dedicated test suite.<br/>
+✅ Collaborating with stakeholders and drawing a conclusion for critical scenarios to get the product ship on slated time.
 
 
 ### Technical Skills and Abilities:
